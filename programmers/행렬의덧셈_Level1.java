@@ -1,6 +1,6 @@
 package com.programmers.java;
 
-public class 행렬의덧셈 {
+public class 행렬의덧셈_Level1 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = {};
         // arr1의 행과 열의 길이만큼 초기화 -> arr1와 arr2 행렬 크기는 같아서 arr2써도 된다.
